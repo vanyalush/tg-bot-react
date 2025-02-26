@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       work
         <button onClick={onClose}>close</button>
-        <button>open</button>
+        <button>l,dnfdsc</button>
     </div>
   );
 }
